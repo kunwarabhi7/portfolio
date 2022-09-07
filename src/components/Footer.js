@@ -11,11 +11,11 @@ const Footer = () => {
     return (
         <div className='footer'>
             <div className='socialMedia'>
-                <FacebookIcon />
-                <InstagramIcon />
-                <TwitterIcon />
-                <LinkedInIcon />
-                <GitHubIcon />
+                <a href='https://www.facebook.com/kunwarabhi07'> <FacebookIcon /></a>
+                <a href='https://www.instagram.com/kunwarabhi7'><InstagramIcon /></a>
+                <a href='https://www.twitter.com/kunwarabhi7'>  <TwitterIcon /></a>
+                <a href='https://www.linkedin.com/in/kunwarabhi7/'><LinkedInIcon /></a>
+                <a href='https://github.com/kunwarabhi7/'>  <GitHubIcon /></a>
             </div>
             <p>&copy; 2022 Abhishek.com </p>
 

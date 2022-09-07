@@ -12,9 +12,17 @@ const Home = () => {
         <div classname="prompt">
           {" "}
           <p>A Web Developer 💻 </p>
-          <LinkedInIcon />
-          <EmailIcon />
-          <GitHubIcon />
+          <a href="https://www.linkedin.com/in/kunwarabhi7/">
+            <LinkedInIcon />
+          </a>
+          <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=iamdevabhi@gmail.com&body=my-text">
+            {" "}
+            <EmailIcon />
+          </a>
+          <a href="https://github.com/kunwarabhi7/">
+            {" "}
+            <GitHubIcon />
+          </a>
         </div>
       </div>
       <div className="skills">
@@ -22,7 +30,8 @@ const Home = () => {
         <ol className="list">
           <li className="item">
             <span>
-              ReactJs , Redux , HTML ,CSS , NPM , BOOTSTRAP ,MataerialUI{" "}
+              ReactJs , Redux , HTML ,CSS , JavaScript , Google FIREBASE ,
+              GIT/GITHUB , NPM , TailwindCSS , BOOTSTRAP, MataerialUI
             </span>
           </li>
         </ol>
@@ -32,3 +41,5 @@ const Home = () => {
 };
 
 export default Home;
+
+//
