@@ -3,6 +3,7 @@ import quote from '../assests/quote.jpg';
 import image from '../assests/imagesearch.jpg';
 import video from '../assests/videosearch.jpg';
 import portfolio from '../assests/portfolio.jpg';
+import foodieapp from '../assests/foodie.jpg'
 import '../styles/ProjectDisplay.css'
 
 
@@ -46,5 +47,13 @@ export const ProjectList = [
         source: 'https://github.com/kunwarabhi7/portfolio',
         demo: " https://meabhishekportfolio.vercel.app/"
     },
+    {
+        name: 'Restaurant App',
+        image: foodieapp,
+        skill: 'React.js, FIREBASE,CSS ',
+        source: 'https://github.com/kunwarabhi7/resturentapp/',
+        demo: " https://myfoodieapp.vercel.app/"
+    },
+
 
 ]
