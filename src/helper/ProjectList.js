@@ -58,7 +58,7 @@ export const ProjectList = [
     },
     {
         name: 'Blog App',
-        image: foodieapp,
+        image: blog,
         skill: 'React.js, FIREBASE,CSS ',
         source: 'https://github.com/kunwarabhi7/blog',
         demo: " https://abhi7blog.vercel.app/"
