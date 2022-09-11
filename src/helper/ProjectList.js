@@ -24,7 +24,7 @@ export const ProjectList = [
         image: quote,
         skill: 'HTML,CSS,JavaScript',
         source: 'https://github.com/kunwarabhi7/quoteGenerator',
-        dem: 'https://abhiquotegenerator.vercel.app/'
+        demo: 'https://abhiquotegenerator.vercel.app/'
     },
     {
         name: 'Video Search App',
