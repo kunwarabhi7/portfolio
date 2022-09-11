@@ -4,6 +4,8 @@ import image from '../assests/imagesearch.jpg';
 import video from '../assests/videosearch.jpg';
 import portfolio from '../assests/portfolio.jpg';
 import foodieapp from '../assests/foodie.jpg'
+import blog from '../assests/blog.jpg'
+
 import '../styles/ProjectDisplay.css'
 
 
@@ -54,6 +56,12 @@ export const ProjectList = [
         source: 'https://github.com/kunwarabhi7/resturentapp/',
         demo: " https://myfoodieapp.vercel.app/"
     },
-
+    {
+        name: 'Blog App',
+        image: foodieapp,
+        skill: 'React.js, FIREBASE,CSS ',
+        source: 'https://github.com/kunwarabhi7/blog',
+        demo: " https://abhi7blog.vercel.app/"
+    },
 
 ]
